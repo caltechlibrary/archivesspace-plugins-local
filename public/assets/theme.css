@@ -1,15 +1,6 @@
-body {
-  background: #fff url('/assets/caltech-bg1.gif') repeat-x top left;
-  background-size: auto;
-}
 #tabs .navbar-default {
   background-color: #fff;
   border-color: #fff;
-}
-#header > .row {
-  height: inherit !important;
-  padding-top: .5em;
-  border-bottom: 0.25rem solid #ccc !important;
 }
 .search {
   padding: 1rem;
