@@ -1,0 +1,19 @@
+body {
+  background: #fff url('/assets/caltech-bg1.gif') repeat-x top left;
+  background-size: auto;
+}
+
+header img {
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+/* remove staff ui inset appearance of header */
+body > div.container-fluid:first-child {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+header img {
+  margin-left: 2rem;
+}
