@@ -1,8 +1,8 @@
 en:
   welcome:
-    heading: "THE CALTECH ARCHIVES"
-    message: "Your friendly archives management tool."
-    message_logged_in: "Your friendly archives management tool."
+    heading: "Caltech Archives and Special Collections"
+    message: "ArchivesSpace: Your friendly archives management tool."
+    message_logged_in: "ArchivesSpace: Your friendly archives management tool."
 
   navbar:
     brand: "Caltech Archives"
