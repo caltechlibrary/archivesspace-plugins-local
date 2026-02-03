@@ -1,0 +1,38 @@
+en:
+  'Browse:': 'Browse'
+  Home: 'Home'
+
+  brand:
+    title: "Caltech Archives"
+    welcome_head: "THE CALTECH ARCHIVES"
+    welcome_message: "Your friendly archives management tool."
+    welcome_search_label: "Find what you're looking for:"
+
+  repository:
+    _plural: "Repositories"
+
+  resource:
+    _plural: "Collection Guides"
+
+  digital_object:
+    _plural: "Items Online"
+
+  accession:
+    _plural: "Accessions"
+
+  subject:
+    _plural: "Subjects"
+
+  agent:
+    _singular: "Agents"
+    _plural: "Agents"
+
+  pui_agent:
+    _plural: "Agents"
+    _singular: "Agents"
+
+  classification:
+    _plural: "Classifications"
+
+  unprocessed:
+    "Holdings"
